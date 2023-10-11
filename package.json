@@ -64,7 +64,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "0.26.0",
-    "debug": "4.1.1",
+    "debug": "^4.3.4",
     "handlebars": "^4.7.7",
     "on-headers": "1.0.2",
     "pidusage": "2.0.18",
@@ -82,7 +82,7 @@
   "devDependencies": {
     "chai": "4.3.6",
     "eslint": "8.10.0",
-    "mocha": "9.2.1",
+    "mocha": "^10.2.0",
     "sinon": "13.0.1"
   },
   "funding": {
