@@ -1,5 +1,5 @@
 {
-  "name": "express-status-monitor",
+  "name": "@sc-voice/express-status-monitor",
   "version": "1.3.4",
   "description": "Realtime Monitoring for Express-based Node applications",
   "main": "index.js",
